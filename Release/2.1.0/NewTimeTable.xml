@@ -1,0 +1,2852 @@
+<?xml version="1.0"?>
+<ArrayOfAGData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>東放学園映画専門学校 presents 桃園ひめこ・巴奎依のライトノベル学園</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>light@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>6:30</_Time>
+    <_Name>木戸衣吹・エリイちゃんの「ゆめいろ学院 Doki☆Doki参観日」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>yumedoki@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（三上詩織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>shiori.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>本気（マジ）！アニラブ（高橋李依）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb5@joqr.net</_Mail>
+    <_HashTag>#alb5</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>声優グランプリ　ザ・Radio（田中真奈美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>seigura@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>RADIO RONDO ROBE（川田まみ・Ray）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>rrr@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>9:30</_Time>
+    <_Name>ジェンガでナイト！（鷲崎健・ジェンガール（岡村明奈・竹田愛・森脇亜紗紀・桜子））</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>jenga@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>A＆G GAME MASTER GT-R（小野坂昌也・加藤英美里・阿久津加菜 (加藤・阿久津は隔週交代) ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/gtr/</_Blog>
+    <_Mail>gtr@joqr.net</_Mail>
+    <_HashTag>#gtr</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>小野大輔・近藤孝行の夢冒険～Dragon&amp;Tiger</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/ddt/</_Blog>
+    <_Mail>ddt@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>有限会社チェリーベル（櫻井孝宏・鈴村健一・松来未祐）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/zeni/</_Blog>
+    <_Mail>zeni@joqr.net</_Mail>
+    <_HashTag>#cherrybell</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>羽多野・寺島 Radio 2D LOVE（羽多野渉・寺島拓篤）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.marine-e.net/sp/2dlove/</_Blog>
+    <_Mail>2dlove@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>12:30</_Time>
+    <_Name>吉野裕行FC</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>yfc@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>13:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>14:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>逢坂市立花江学園～Radio（逢坂良太・花江夏樹）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ouhana@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>15:30</_Time>
+    <_Name>黒子のバスケ 放送委員会（小野賢章・小野友樹）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>kurobas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>アニアモ！（川上莉央・立花理香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/aniamo/</_Blog>
+    <_Mail>aniamo@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（上坂すみれ）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>sumire.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>本気（マジ）！アニラブ（和田京子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb1@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>内田夕夜・石川英郎の金色のコルダ Blue♪Sky Radio</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>corda@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>19:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>20:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>内田さんと浅倉さん（内田彩・朝倉杏美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ua@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>21:30</_Time>
+    <_Name>東山奈央のドリーム*シアター</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>nao@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>井口裕香のむ～～～ん⊂（　＾ω＾）⊃</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>yukachi@joqr.net</_Mail>
+    <_HashTag>#muuuun</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>阿澄佳奈 星空ひなたぼっこ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>asumin@joqr.net</_Mail>
+    <_HashTag>#hoshihina</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>THE IDOLM@STER STATION +（沼倉愛美・原由実）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>imas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>能登麻美子 おはなしNOTE</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>note@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>ごぶごぶちゃん☆（中村繪里子・田村睦心）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://seaside-c.jp/program/gobu/</_Blog>
+    <_Mail>gobu@joqr.net</_Mail>
+    <_HashTag>#gobugobuchan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>諏訪道彦のスワラジ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>suwacchi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（上坂すみれ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>sumire.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Monday</_WeekDay>
+    <_Time>3:00</_Time>
+    <_Name>本気（マジ）！アニラブ（和田京子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb1@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>伊福部崇のラジオのラジオ（伊福部崇・林沙織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/suki/</_Blog>
+    <_Mail>radioradio@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>6:30</_Time>
+    <_Name>のざP＆松永真穂のLive Dog（野崎圭一・松永真穂）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>dog@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（上坂すみれ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>sumire.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>本気（マジ）！アニラブ（和田京子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb1@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>内田夕夜・石川英郎の金色のコルダ Blue♪Sky Radio</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>corda@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>内田さんと浅倉さん（内田彩・朝倉杏美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ua@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>9:30</_Time>
+    <_Name>東山奈央のドリーム*シアター</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>nao@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>井口裕香のむ～～～ん⊂（　＾ω＾）⊃</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>yukachi@joqr.net</_Mail>
+    <_HashTag>#muuuun</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>阿澄佳奈 星空ひなたぼっこ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>asumin@joqr.net</_Mail>
+    <_HashTag>#hoshihina</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>THE IDOLM@STER STATION +（沼倉愛美・原由実）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>imas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>12:30</_Time>
+    <_Name>能登麻美子 おはなしNOTE</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>note@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>13:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>14:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（i☆Ris）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>iris.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>ごぶごぶちゃん☆（中村繪里子・田村睦心）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://seaside-c.jp/program/gobu/</_Blog>
+    <_Mail>gobu@joqr.net</_Mail>
+    <_HashTag>#gobugobuchan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>きり～つ！れいっ！姫イド隊</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>himeido@joqr.net</_Mail>
+    <_HashTag>#himeido</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>プリンセスケッツの珍想中（秋奈・杜野まこ・中津真莉子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>puri@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（小松未可子）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>mikako.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>篠田みなみの本気（マジ）！アニラブ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb2@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>砂山・赤崎アワー　えじまる（砂山圭大郎・赤崎千夏）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>agmaru@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（Gero）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>gero.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>19:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（Gero）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>gero.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>20:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（Gero）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>gero.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>井上麻里奈・下田麻美のIT革命!</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://it.dlsite.com/</_Blog>
+    <_Mail>it@joqr.net</_Mail>
+    <_HashTag>#itkakumei</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>21:30</_Time>
+    <_Name>早見沙織のふり～すたいる♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>frst@joqr.net</_Mail>
+    <_HashTag>#frst</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>高橋美佳子の の～ぷらんでいこう♪</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>no@joqr.net</_Mail>
+    <_HashTag>#no_plan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>竹達・沼倉の初ラジ！（竹達彩奈・沼倉愛美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>wiwi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>23:30</_Time>
+    <_Name>種田梨沙と新田恵海の「新種ラジオ」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>dmm@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>久保ユリカが１人しゃべりなんて胃が痛い。</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>shikaco@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>TRYangle harmony（麻倉もも・雨宮天・夏川椎菜）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>try@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>洲崎西（洲崎綾・西明日香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://seaside-c.jp/program/suzakinishi/</_Blog>
+    <_Mail>suzakinishi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>中村繪里子の「ら・ら・ら なかむランド～Love・Laugh・Life」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>nakamuland@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>野水いおりの厨二病をこじらせたワタシが,アンタたちも道連れにしてやるラジオ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（小松未可子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>mikako.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Tuesday</_WeekDay>
+    <_Time>3:30</_Time>
+    <_Name>本気（マジ）！アニラブ（篠田みなみ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb2@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>きり～つ！れいっ！姫イド隊</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>himeido@joqr.net</_Mail>
+    <_HashTag>#himeido</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>6:30</_Time>
+    <_Name>プリンセスケッツの珍想中（秋奈・杜野まこ・中津真莉子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>puri@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（小松未可子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>mikako.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>本気（マジ）！アニラブ（篠田みなみ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb2@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>砂山・赤崎アワー　えじまる（砂山圭大郎・赤崎千夏）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>agmaru@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>井上麻里奈・下田麻美のIT革命!</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://it.dlsite.com/</_Blog>
+    <_Mail>it@joqr.net</_Mail>
+    <_HashTag>#itkakumei</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>9:30</_Time>
+    <_Name>早見沙織のふり～すたいる♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>frst@joqr.net</_Mail>
+    <_HashTag>#frst</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>高橋美佳子の の～ぷらんでいこう♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>no@joqr.net</_Mail>
+    <_HashTag>#no_plan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>竹達・沼倉の初ラジ！（竹達彩奈・沼倉愛美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>wiwi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>種田梨沙と新田恵海の「新種ラジオ」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>dmm@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>久保ユリカが１人しゃべりなんて胃が痛い。</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>shikaco@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>12:30</_Time>
+    <_Name>TRYangle harmony（麻倉もも・雨宮天・夏川椎菜）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>try@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（Gero）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>gero.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>13:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（Gero）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>gero.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>洲崎西（洲崎綾・西明日香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://seaside-c.jp/program/suzakinishi/</_Blog>
+    <_Mail>suzakinishi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>15:30</_Time>
+    <_Name>中村繪里子の「ら・ら・ら なかむランド～Love・Laugh・Life」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>nakamuland@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>アクターズゲート　きらきら☆トライアングル♪（小林千紗・和地つかさ・光富崇雄）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>gate@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>16:30</_Time>
+    <_Name>Newtype presents 金の卵（三枝茜咲）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>egg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（大久保瑠美）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>rumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>本気（マジ）！アニラブ（永井瑠梨）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb3@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>仙台エリのナチュラルパンケーキ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>np@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>19:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>20:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>花澤香菜のひとりでできるかな?</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/hanazawa/</_Blog>
+    <_Mail>dekirukana@joqr.net</_Mail>
+    <_HashTag>#hitokana</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>超!mobile A&amp;G presents 生放送!〔月3回更新〕（諏訪部順一 with ゲスト、マンスリーパーソナリティ(月替) ）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>nama@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>矢作・佐倉のちょっとお時間よろしいですか（矢作紗友里・佐倉綾音）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ojikan@joqr.net</_Mail>
+    <_HashTag>#ojikan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>23:30</_Time>
+    <_Name>あおい・さおりの新番組 ( ｀・ш・´ )（悠木碧・早見沙織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>doya@joqr.net</_Mail>
+    <_HashTag>#aoisaori</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>ヒャダインのわーきゃーいわれたい</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>wa@joqr.net</_Mail>
+    <_HashTag>#wakya</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>津田のラジオ「っだー！！」（津田美波）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>daaaaa@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>由佳・ありさ・未奈美のＭラジ！！（大坪由佳・清都ありさ・高橋未奈美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>mmm@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>ブレイドアンドソウル～無口なアルカのおしゃべりラジオ～（タカオユキ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>blade@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（大久保瑠美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>rumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Wednesday</_WeekDay>
+    <_Time>3:00</_Time>
+    <_Name>本気（マジ）！アニラブ（永井瑠梨）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb3@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>アクターズゲート　きらきら☆トライアングル♪（小林千紗・和地つかさ・光富崇雄）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>gate@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>6:30</_Time>
+    <_Name>ブレイドアンドソウル～無口なアルカのおしゃべりラジオ～（タカオユキ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>blade@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（大久保瑠美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>rumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>本気（マジ）！アニラブ（関口未佐子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb3@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>仙台エリのナチュラルパンケーキ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>np@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>花澤香菜のひとりでできるかな?</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/hanazawa/</_Blog>
+    <_Mail>dekirukana@joqr.net</_Mail>
+    <_HashTag>#hitokana</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>超!mobile A&amp;G presents 生放送!〔月3回更新〕（諏訪部順一 with ゲスト、マンスリーパーソナリティ(月替) ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>nama@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>矢作・佐倉のちょっとお時間よろしいですか（矢作紗友里・佐倉綾音）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ojikan@joqr.net</_Mail>
+    <_HashTag>#ojikan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>あおい・さおりの新番組 ( ｀・ш・´ )（悠木碧・早見沙織 ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>doya@joqr.net</_Mail>
+    <_HashTag>#aoisaori</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>津田のラジオ「っだー！！」（津田美波）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>daaaaa@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>由佳・ありさ・未奈美のＭラジ！！（大坪由佳・清都ありさ・高橋未奈美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>mmm@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>13:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>14:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（吉田仁美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>hitomi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>ヒャダインのわーきゃーいわれたい</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>wa@joqr.net</_Mail>
+    <_HashTag>#wakya</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>ミュージック＋３０</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>16:30</_Time>
+    <_Name>新人声優読本（湊ちひろ・田中聖奈・長門石まお）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>deview@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（高森奈津美）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>natsumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>本気（マジ）！アニラブ（山岡ゆり）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb4@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>ノン子とのび太のアニメスクランブル（日高のり子・長谷川のび太）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.net/blog/anisc/</_Blog>
+    <_Mail>anisc@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>19:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>20:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>杉田智和のアニゲラディドゥーーン</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>gera@joqr.net</_Mail>
+    <_HashTag>#anigera</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>RADIO 4Gamer（岡本信彦・マフィア梶田）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.4gamer.net/words/004/W00434/</_Blog>
+    <_Mail>4gamer@joqr.net</_Mail>
+    <_HashTag>#radigame</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>22:30</_Time>
+    <_Name>豊崎愛生のおかえりらじお</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>okaeri@joqr.net</_Mail>
+    <_HashTag>#okaeri</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>23:30</_Time>
+    <_Name>高垣彩陽のあしたも晴レルヤ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ayahi@joqr.net</_Mail>
+    <_HashTag>#hareruya</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>儀武ゆう子"ＳＵＮ"</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sun@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>喜多村英梨の英立魔法学園</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://lanove.kodansha.co.jp/27528.html</_Blog>
+    <_Mail>erigaku@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>金田朋子・保村真のエアラジオ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/air-radio/</_Blog>
+    <_Mail>air@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>水島大宙・木村良平　←ＳＩＤＥ ＢＹ ＳＩＤＥ→</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>side@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>オトメヂカラ（浅井晴美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://otomejikara.com/</_Blog>
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（高森奈津美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>natsumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Thursday</_WeekDay>
+    <_Time>3:30</_Time>
+    <_Name>本気（マジ）！アニラブ（山岡ゆり）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb4@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>高本めぐみの音めぐり♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>meg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>6:30</_Time>
+    <_Name>オトメヂカラ（浅井晴美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://otomejikara.com/</_Blog>
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（高森奈津美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>natsumi.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>本気（マジ）！アニラブ（山岡ゆり）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb4@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>ノン子とのび太のアニメスクランブル（日高のり子・長谷川のび太）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.net/blog/anisc/</_Blog>
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>豊崎愛生のおかえりらじお</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>okaeri@joqr.net</_Mail>
+    <_HashTag>#okaeri</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>杉田智和のアニゲラディドゥーーン</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>gera@joqr.net</_Mail>
+    <_HashTag>#anigera</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>RADIO 4Gamer（岡本信彦・マフィア梶田）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.4gamer.net/words/004/W00434/</_Blog>
+    <_Mail>4gamer@joqr.net</_Mail>
+    <_HashTag>#radigame</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>高垣彩陽のあしたも晴レルヤ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ayahi@joqr.net</_Mail>
+    <_HashTag>#hareruya</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>儀武ゆう子"ＳＵＮ"</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sun@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>12:30</_Time>
+    <_Name>喜多村英梨の英立魔法学園</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://lanove.kodansha.co.jp/27528.html</_Blog>
+    <_Mail>erigaku@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>13:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>14:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（AiRi）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>airi.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>金田朋子・保村真のエアラジオ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/air-radio/</_Blog>
+    <_Mail>air@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>15:30</_Time>
+    <_Name>水島大宙・木村良平　←ＳＩＤＥ ＢＹ ＳＩＤＥ→</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>side@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>超！A＆Gスペシャル</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>sag@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（三上詩織）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>shiori.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>本気（マジ）！アニラブ（高橋李依）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb5@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>声優グランプリ ザ・Ｒａｄｉｏ（田中真奈美・広島編集長）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>anigaku@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>織田かおりのもっとColorful Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>kaori@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>19:40</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>三澤紗千香のreal oneself</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>sachika@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>20:10</_Time>
+    <_Name>A&amp;G ARTIST ZONE 2h（鷲崎健）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/2h/</_Blog>
+    <_Mail>take.2h@joqr.net</_Mail>
+    <_HashTag>#2h</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>RADIO RONDO ROBE（川田まみ・Ray）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>rrr@joqr.net</_Mail>
+    <_HashTag>#rrr</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>21:30</_Time>
+    <_Name>ジェンガでナイト！（鷲崎健・ジェンガール（岡村明奈・竹田愛・森脇亜紗紀・桜子））</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>jenga@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>A＆G GAME MASTER GT-R（小野坂昌也・加藤英美里・阿久津加菜 (加藤・阿久津は隔週交代) ）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/gtr/</_Blog>
+    <_Mail>gtr@joqr.net</_Mail>
+    <_HashTag>#gtr</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>小野大輔・近藤孝行の夢冒険～Dragon&amp;Tiger</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/ddt/</_Blog>
+    <_Mail>ddt@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>23:30</_Time>
+    <_Name>有限会社チェリーベル（櫻井孝宏・鈴村健一・松来未祐）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/zeni/</_Blog>
+    <_Mail>zeni@joqr.net</_Mail>
+    <_HashTag>#cherrybell</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>羽多野・寺島 Radio 2D LOVE（羽多野渉・寺島拓篤）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.marine-e.net/sp/2dlove/</_Blog>
+    <_Mail>2dlove@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>吉野裕行FC</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>yfc@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>逢坂市立花江学園～Radio（逢坂良太・花江夏樹）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ouhana@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>黒子のバスケ 放送委員会（小野賢章・小野友樹）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>kurobas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>木戸衣吹・エリイちゃんの「ゆめいろ学院 Doki☆Doki参観日」</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>yumedoki@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>A&amp;G NEXT GENERATION Lady Go!!（三上詩織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/lady/</_Blog>
+    <_Mail>shiori.lady@joqr.net</_Mail>
+    <_HashTag>#ladygo</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Friday</_WeekDay>
+    <_Time>3:30</_Time>
+    <_Name>本気（マジ）！アニラブ（高橋李依）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/alb/</_Blog>
+    <_Mail>alb5@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>超!mobile A&amp;G presents 生放送!〔月3回更新〕（諏訪部順一 with ゲスト、マンスリーパーソナリティ(月替) ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>nama@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>アニアモ！（川上莉央・立花理香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/aniamo/</_Blog>
+    <_Mail>aniamo@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>超！A&amp;Gスペシャル</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>sag@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>のざP＆松永真穂のLive Dog（野崎圭一・松永真穂）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>dog@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>9:30</_Time>
+    <_Name>アフィリア・サーガの魔法学院放送部</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>afilia@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>智一、美樹のラジオビッグバン</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>10:30</_Time>
+    <_Name>小野大輔・近藤孝行の夢冒険～Dragon&amp;Tiger</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/ddt/</_Blog>
+    <_Mail>ddt@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>羽多野・寺島 Radio 2D LOVE（羽多野渉・寺島拓篤）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.marine-e.net/sp/2dlove/</_Blog>
+    <_Mail>2dlove@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>有限会社チェリーベル（櫻井孝宏・鈴村健一・松来未祐）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/zeni/</_Blog>
+    <_Mail>zeni@joqr.net</_Mail>
+    <_HashTag>#cherrybell</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>杉田智和のアニゲラディドゥーーン</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>gera@joqr.net</_Mail>
+    <_HashTag>#anigera</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>逢坂市立花江学園～Radio（逢坂良太・花江夏樹）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ouhana@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>13:30</_Time>
+    <_Name> P.S. 元気です。孝宏（櫻井孝宏）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>psgenki@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>A＆G GAME MASTER GT-R（小野坂昌也・加藤英美里・阿久津加菜 (加藤・阿久津は隔週交代) ）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/gtr/</_Blog>
+    <_Mail>gtr@joqr.net</_Mail>
+    <_HashTag>#gtr</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>高橋美佳子の の～ぷらんでいこう♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>no@joqr.net</_Mail>
+    <_HashTag>#no_plan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>A&amp;G Girls Project（鹿野優以・石川由依・一木千洋・後藤友香里・高橋未奈美・田上真里奈）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/digista/</_Blog>
+    <_Mail>agp@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>はみらじ！！（荒川美穂・大坪由佳・山本希望）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.marine-e.net/sp/hami-radi/</_Blog>
+    <_Mail>hamidase@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>東放学園映画専門学校 presents 桃園ひめこ・巴奎依のライトノベル学園</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>light@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>高本めぐみの音めぐり♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>meg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>高橋花林と大和田仁美のとりあえずノリでやっていこう！</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>karinhitomi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>あませらげ！東京！（おたっきぃ佐々木・レイちゃん）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>amslg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>20:30</_Time>
+    <_Name>あけことYUUKIの Are You Lady？（明坂聡美・YUUKI）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ikemen@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>A&amp;G超RADIO SHOW アニスパ!・プラス 【最大23時59分までの放送となります】 （鷲崎健・浅野真澄）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/ag/anispa/</_Blog>
+    <_Mail>anispa@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>A&amp;Gメディアステーション こむちゃっとｶｳﾝﾄﾀﾞｳﾝﾌﾟﾗｽ【最大23時59分までの放送となります】（櫻井孝宏・井口裕香）</_Name>
+    <_Live>true</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.comcha.net/</_Blog>
+    <_Mail>comcha@joqr.net</_Mail>
+    <_HashTag>#comcha</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>戸松遥のココロ☆ハルカス</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>harukas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>寿美菜子のラフラフ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>375@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>あどりぶ（巽悠衣子・大橋彩香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>adlib@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>大久保瑠美・原紗友里　青春学園 Girls High↑↑</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>high@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>キャプテン・アース～Midsummer's Night ～（入野自由）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ce@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>2:30</_Time>
+    <_Name>ラジオTokyo cher2 party</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>3:00</_Time>
+    <_Name>生メールpresents 柿原と流田のラジオ＋（藤本）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>knf@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Saturday</_WeekDay>
+    <_Time>3:30</_Time>
+    <_Name>ラジオどっとあい 雨宮天の群青ガラパゴス</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>di@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>6:00</_Time>
+    <_Name>超！A&amp;Gスペシャル</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>sag@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>7:00</_Time>
+    <_Name>あませらげ！東京！（おたっきぃ佐々木・レイちゃん）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>amslg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>7:30</_Time>
+    <_Name>ラジオどっとあい 雨宮天の群青ガラパゴス</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>di@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>8:00</_Time>
+    <_Name>戸松遥のココロ☆ハルカス</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>harukas@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>8:30</_Time>
+    <_Name>寿美菜子のラフラフ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>375@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>9:00</_Time>
+    <_Name>花澤香菜のひとりでできるかな</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/hanazawa/</_Blog>
+    <_Mail>dekirukana@joqr.net</_Mail>
+    <_HashTag>#hitokana</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>10:00</_Time>
+    <_Name>高垣彩陽のあしたも晴レルヤ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>ayahi@joqr.net</_Mail>
+    <_HashTag>#hareruya</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>10:30</_Time>
+    <_Name>矢作・佐倉のちょっとお時間よろしいですか（矢作紗友里・佐倉綾音）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>ojikan@joqr.net</_Mail>
+    <_HashTag>#ojikan</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>11:00</_Time>
+    <_Name>あおいさおりの新番組（悠木碧・早見沙織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>doya@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>11:30</_Time>
+    <_Name>早見沙織のふり～すたいる♪</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>frst@joqr.net</_Mail>
+    <_HashTag>#frst</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>12:00</_Time>
+    <_Name>竹達・沼倉の初ラジ！（竹達彩奈・沼倉愛美）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>wiwi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>12:30</_Time>
+    <_Name>TRYangle harmony（麻倉もも・雨宮天・夏川椎菜）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>try@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>13:00</_Time>
+    <_Name>阿澄佳奈星空ひなたぼっこ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>asumin@joqr.net</_Mail>
+    <_HashTag>#hoshihina</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>14:00</_Time>
+    <_Name>井口裕香のむ～～～ん⊂（　＾ω＾）⊃</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>yukachi@joqr.net</_Mail>
+    <_HashTag>#muuuun</_HashTag>
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>15:00</_Time>
+    <_Name>久保ユリカが１人しゃべりなんて胃が痛い。</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>shikaco@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>15:30</_Time>
+    <_Name>洲崎西（洲崎綾・西明日香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://seaside-c.jp/program/suzakinishi/</_Blog>
+    <_Mail>suzakinishi@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>16:00</_Time>
+    <_Name>アニアモ！（川上莉央・立花理香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog>http://www.joqr.co.jp/aniamo/</_Blog>
+    <_Mail>aniamo@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>17:00</_Time>
+    <_Name>夜中メイクが気になったから（たかはし智秋・寺川愛美・千菅春香）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://obc1314.com/yonaka/</_Blog>
+    <_Mail>egg@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>17:30</_Time>
+    <_Name>めっちゃすきやねん（大空直美・中島唯・松田颯水）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail />
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>18:00</_Time>
+    <_Name>伊福部崇のラジオのラジオ（伊福部崇・林沙織）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>radioradio@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>18:30</_Time>
+    <_Name>のざP＆松永真穂のLive Dog（野崎圭一・松永真穂）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>dog@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>19:00</_Time>
+    <_Name>野中藍・石川由依のラジオOperating System</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://nios.seesaa.net/</_Blog>
+    <_Mail>os@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>19:30</_Time>
+    <_Name>アフィリア・サーガの魔法学院放送部</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>afilia@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>20:00</_Time>
+    <_Name>井口裕香・（いつか出会う）のチェンクロラジオ</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>chain@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>20:30</_Time>
+    <_Name>It's a Voiceful World ～ラジオショーへようこそ～（日高のり子・井上喜久子）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.joqr.co.jp/blog/vw/</_Blog>
+    <_Mail>vw@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>21:00</_Time>
+    <_Name>佐倉綾音Ayane＊LDK</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog>http://www.marine-e.net/sp/ayane_ldk/</_Blog>
+    <_Mail>ayaneldk@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>21:30</_Time>
+    <_Name>丹下桜のRadio・A・La・Mode</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>alamode@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>22:00</_Time>
+    <_Name>阿部敦・植田佳奈のガンストうぇ～ぶ！</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>true</_Movie>
+    <_Blog />
+    <_Mail>gun@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>22:30</_Time>
+    <_Name>諏訪部順一・西田雅一の覚醒チューン</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>kakusei@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>23:00</_Time>
+    <_Name>梶裕貴のひとりごと</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>kaji@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>23:30</_Time>
+    <_Name>天才軍師（安元洋貴・細谷佳正）</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>komei@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>0:00</_Time>
+    <_Name>P.S.元気です。孝宏</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>psgenki@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>0:30</_Time>
+    <_Name>宮田幸希です。</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>mk@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>1:00</_Time>
+    <_Name>小野友樹のオノパラ！</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>onopara@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>1:30</_Time>
+    <_Name>前野智昭・増田俊樹のMission:WM</_Name>
+    <_Live>false</_Live>
+    <_Repeat>false</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>mwm@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+  <AGData>
+    <_WeekDay>Sunday</_WeekDay>
+    <_Time>2:00</_Time>
+    <_Name>超！A&amp;Gスペシャル</_Name>
+    <_Live>false</_Live>
+    <_Repeat>true</_Repeat>
+    <_Movie>false</_Movie>
+    <_Blog />
+    <_Mail>sag@joqr.net</_Mail>
+    <_HashTag />
+  </AGData>
+</ArrayOfAGData>

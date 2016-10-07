@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	width:100%;
+}
+
+#left_frame {
+	float: left;
+	left: 0px;
+	top: 0px;
+	margin-left: 20px;
+	padding-top: 10px;
+	width: 200px;
+}
+
+dd {
+	padding-left: 20px;
+}
+
+#right_frame {
+	margin-left: 220px;
+	padding : 20px 20px;
+	border-left: solid 1px;
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfMailData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MailData>
+    <_Service>Yahoo!メール</_Service>
+    <_SMTPServer>smtp.mail.yahoo.co.jp</_SMTPServer>
+    <_Name />
+    <_Password />
+    <_Port>587</_Port>
+    <_Mail />
+    <_SSLFlg>false</_SSLFlg>
+    <_UseFlg>false</_UseFlg>
+  </MailData>
+  <MailData>
+    <_Service>Gmail/livedoorメール</_Service>
+    <_SMTPServer>smtp.gmail.com</_SMTPServer>
+    <_Name />
+    <_Password />
+    <_Port>587</_Port>
+    <_Mail />
+    <_SSLFlg>true</_SSLFlg>
+    <_UseFlg>false</_UseFlg>
+  </MailData>
+  <MailData>
+    <_Service>hotmail/Windows Live</_Service>
+    <_SMTPServer>smtp.live.com</_SMTPServer>
+    <_Name />
+    <_Password />
+    <_Port>587</_Port>
+    <_Mail />
+    <_SSLFlg>true</_SSLFlg>
+    <_UseFlg>false</_UseFlg>
+  </MailData>
+  <MailData>
+    <_Service>オリジナル</_Service>
+    <_SMTPServer />
+    <_Name />
+    <_Password />
+    <_Port>25</_Port>
+    <_Mail />
+    <_SSLFlg>false</_SSLFlg>
+    <_UseFlg>false</_UseFlg>
+  </MailData>
+</ArrayOfMailData>
